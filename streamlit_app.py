@@ -23,7 +23,7 @@ def main():
 
     st.markdown(html_temp, unsafe_allow_html = True)
 
-    csv_path = "/content/df2fraud.csv"
+    csv_path = "df2fraud.csv"
     df2 = pd.read_csv(csv_path)
     st.write("This app employs a Random Forest Model trained on an insurance claims dataset to predict fraud.")
 
