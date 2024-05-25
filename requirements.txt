@@ -1,5 +1,5 @@
 streamlit==1.35.0
-pandas==2.2.2
-scikit-learn==1.5.0
-imbalanced-learn==0.12.2
+pandas==2.0.3
+Scikit-learn version: 1.2.2
+imbalanced-learn==0.10.1
 
