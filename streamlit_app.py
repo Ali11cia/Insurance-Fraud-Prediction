@@ -1,3 +1,4 @@
+import pickle
 # loading in the model to predict on the data
 pickle_in = open('rf2.pkl', 'rb')
 rf2 = pickle.load(pickle_in)
